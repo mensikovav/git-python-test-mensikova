@@ -1,4 +1,4 @@
-def vypis_sklad(seznam):
+# Skript pro správu skladových zásobdef vypis_sklad(seznam):
     for polozka in seznam:
         print(f"Skladem: {polozka} -Aktualizováno v1.1")
 

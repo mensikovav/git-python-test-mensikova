@@ -1,1 +1,1 @@
-# git-python-test-mensikova
+Tento projekt slouží ke studiu základů verzování v Pythonu.
